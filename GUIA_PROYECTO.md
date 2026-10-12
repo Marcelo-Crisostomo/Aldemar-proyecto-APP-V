@@ -2,6 +2,8 @@
 
 Guía paso a paso para construir un MVP Android con **Kotlin + Jetpack Compose + MVVM**, con la menor cantidad de código posible (caso ALDEMAR SpA, asignatura DSY1105).
 
+> ⚠️ **Es un material de apoyo y puede contener errores.** Si lo usas como estudiante o equipo, adáptalo a tus necesidades y mejóralo.
+>
 > **Cómo usar esta guía:** escribe (no copies a ciegas) cada archivo en el orden indicado. Cada etapa termina con un punto de control que compila. Al final encontrarás una sección con ideas para llevar el proyecto al siguiente nivel.
 
 ---
